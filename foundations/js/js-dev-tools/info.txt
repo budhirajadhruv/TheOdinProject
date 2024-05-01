@@ -1,0 +1,5 @@
+-> HTML represents intial page content (int tree form)
+-> DOM or document object model represents the current page content (in tree form)
+-> When JS add, modifies or removes elements, DOM changes
+
+https://developer.chrome.com/docs/devtools/javascript/
